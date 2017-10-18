@@ -1,0 +1,17 @@
+*{
+    width: 3000px;
+    height: 200px;
+    box-sizing:inherit;
+}
+#primero {
+    background:rgb(235, 197, 39);
+}
+
+#segundo {
+    background: black;
+    color: white;
+}
+
+#tercero{
+      background: rgb(235, 197, 39);
+}
